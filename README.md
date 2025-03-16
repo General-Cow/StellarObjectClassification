@@ -11,13 +11,14 @@ On a personal level, this project was about combining my current passion and pro
 
 If you would like to cite this work please cite this notebook on Kaggle or repository on my GitHub.
 
-Author information:
+### Author information:
 
-Author: David Blankenship (aka General Cow)
-Email: dblankj@gmail.com
-Github: https://github.com/General-Cow/StellarObjectClassification
-Kaggle: https://www.kaggle.com/code/generalcow/stellarobjectclassification
-Citations
+- Author: David Blankenship (aka General Cow)
+- Email: dblankj@gmail.com
+- Github: https://github.com/General-Cow/StellarObjectClassification
+- Kaggle: https://www.kaggle.com/code/generalcow/stellarobjectclassification
+
+### Citations
 The SDSS 17 dataset I am using was obtained from the below cited Kaggle noteboook. The source of all data was from the Sloan Digitial Sky Survey teams. I also copy the acknowledgements fedesoriano cited here.
 
 fedesoriano. (January 2022). Sloan Digital Sky Survey DR16. Retrieved 14 March 2025 from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.
@@ -26,10 +27,10 @@ The SDSS 16 dataset I am using was obtained from the below cited Kaggle notebooo
 
 Mukharbek Organokov. (December 2019). Stellar Classification Dataset - SDSS17. Retrieved 15 March 2025 from https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16.
 
-Acknowledgements
+### Acknowledgements
 The data released by the SDSS is under public domain. Its taken from the current data release RD17.
 
 More information about the license: http://www.sdss.org/science/image-gallery/
 
-SDSS Publications:
+### SDSS Publications:
 Abdurro’uf et al., The Seventeenth data release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar and APOGEE-2 DATA (Abdurro’uf et al. submitted to ApJS) [arXiv:2112.02026]
